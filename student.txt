@@ -1,0 +1,9 @@
+Student name : Steven Grazius Sutanto
+student number : 678895
+Student class : 2122 ITd
+
+
+<!---
+StevenGrazius28/StevenGrazius28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
